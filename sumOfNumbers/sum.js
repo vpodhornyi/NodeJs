@@ -27,4 +27,4 @@ class Sum {
   }
 }
 
-module.exports = num => new Sum(num);
+module.exports = Sum;
