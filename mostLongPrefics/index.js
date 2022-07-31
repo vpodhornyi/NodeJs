@@ -14,4 +14,4 @@ for (let i = 0, ln = arr.length - 1; i < ln; i++) {
   }
 }
 
-console.log(res);
+console.log(res); // fl
